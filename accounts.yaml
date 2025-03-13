@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to Accounts Microservice"
   contactDetails:
-    email: "pps@test.com"
+    email: "{cipher}bd24040e840126c99f7c2fcbaabf934d5a8948af3d3f34fd4680ae51a476d5f6"
     name: "PPS-940"
 
   onCallSupport:
