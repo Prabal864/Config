@@ -1,8 +1,8 @@
 build:
   version: "0.0.3"
 
-accounts:
-  message: "Welcome to PROD environment Cards Microservice"
+cards:
+  message: "Welcome to PRODUCTION-1 environment Cards Microservice"
   contactDetails:
     email: "production@test.com"
     name: "Production Team"

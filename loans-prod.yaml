@@ -1,13 +1,9 @@
-spring:
-  config:
-    activate:
-      on-profile: "prod"
 
 build:
   version: "0.0.3"
 
-accounts:
-  message: "Welcome to PROD environment Loans Microservice"
+loans:
+  message: "Welcome to PRODUCTION-2 environment webhook Loans Microservice"
   contactDetails:
     email: "production@test.com"
     name: "Production Team"
